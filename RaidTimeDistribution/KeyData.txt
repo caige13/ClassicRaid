@@ -1,0 +1,4 @@
+Client KeyV1:de2844824ab5dac91b1ed65cba906376
+Client V1 Name:Cranky
+Client IDV2:986a770b-b390-4112-bca5-d7b584edfbdc
+CLient Secret:I2v2szbQNdLd0JXTBlL7VOTYpEcfkQejku0Bwomb
